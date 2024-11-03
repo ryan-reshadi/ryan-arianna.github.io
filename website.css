@@ -2,7 +2,7 @@ body {
     font-family: cursive;
 }
 
-h1 {
+#About-Us-Header {
     font-family: monospace;
     color: purple;
     font-weight:bold;
@@ -16,6 +16,7 @@ h1 {
 
 #Ryan-Paragraph {
     font-family:"Comic Sans MS", sans-serif;
+    color:black;
 }
 
 #Arianna-Heading {
@@ -26,6 +27,7 @@ h1 {
 
 #Arianna-Paragraph {
     font-family:"Comic Sans MS", sans-serif;
+    color:black;
 }
 
 #Aydin-Heading {
@@ -36,6 +38,7 @@ h1 {
 
 #Aydin-Paragraph {
     font-family:"Comic Sans MS", sans-serif;
+    color:black;
 }
 
 h2 {
@@ -51,7 +54,7 @@ h3 {
 }
 
 #cats {
-    color:rosybrown;
+    color:black;
     font-family:"Comic Sans MS", sans-serif;
 }
 
