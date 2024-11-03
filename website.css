@@ -5,4 +5,65 @@ body {
 h1 {
     font-family: monospace;
     color: purple;
+    font-weight:bold;
+}
+
+#Ryan-Heading {
+    color:rgb(0, 92, 145);
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+#Ryan-Paragraph {
+    font-family:"Comic Sans MS", sans-serif;
+}
+
+#Arianna-Heading {
+    color:rgb(103, 19, 212);
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+#Arianna-Paragraph {
+    font-family:"Comic Sans MS", sans-serif;
+}
+
+#Aydin-Heading {
+    color:blue;
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+#Aydin-Paragraph {
+    font-family:"Comic Sans MS", sans-serif;
+}
+
+h2 {
+    color:red;
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+h3 {
+    color:green;
+    font-family:"Lexend", sans-serif;
+    font-weight:bold;
+}
+
+#cats {
+    color:rosybrown;
+    font-family:"Comic Sans MS", sans-serif;
+}
+
+p {
+    color:gray;
+    font-family:"Merriweather", sans-serif;
+}
+
+ul {
+    color:orangered;
+}
+
+li {
+    color:yellow;
 }
