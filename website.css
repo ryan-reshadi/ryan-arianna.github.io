@@ -2,7 +2,71 @@ body {
     font-family: cursive;
 }
 
-h1 {
+#About-Us-Header {
     font-family: monospace;
     color: purple;
+    font-weight:bold;
+}
+
+#Ryan-Heading {
+    color:rgb(0, 92, 145);
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+#Ryan-Paragraph {
+    font-family:"Comic Sans MS", sans-serif;
+    color:black;
+}
+
+#Arianna-Heading {
+    color:rgb(151, 79, 245);
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+#Arianna-Paragraph {
+    font-family:"Comic Sans MS", sans-serif;
+    color:black;
+}
+
+#Aydin-Heading {
+    color:blue;
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+#Aydin-Paragraph {
+    font-family:"Comic Sans MS", sans-serif;
+    color:black;
+}
+
+h2 {
+    color:red;
+    font-family:"Comfortaa", sans-serif;
+    font-weight:bold;
+}
+
+h3 {
+    color:green;
+    font-family:"Lexend", sans-serif;
+    font-weight:bold;
+}
+
+#cats {
+    color:black;
+    font-family:"Comic Sans MS", sans-serif;
+}
+
+p {
+    color:gray;
+    font-family:"Merriweather", sans-serif;
+}
+
+ul {
+    color:orangered;
+}
+
+li {
+    color:rgb(224, 16, 16);
 }
